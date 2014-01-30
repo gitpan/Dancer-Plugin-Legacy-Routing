@@ -1,0 +1,45 @@
+[25495]  info @0.000007> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 16
+[25515]  info @0.000006> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 18
+[25523]  info @0.000007> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 17
+[25531]  info @0.000007> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 17
+[25539]  info @0.000007> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 17
+[25547]  info @0.000009> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 19
+[25573]  core @0.000007> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25609]  core @0.000007> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25617]  core @0.000007> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25625]  core @0.000007> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25637]  core @0.000006> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25718]  core @0.000006> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25720]  core @0.000006> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25722]  core @0.000007> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25726]  core @0.000006> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25742]  info @0.000008> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 30
+[25742]  core @0.002729> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25750]  info @0.000008> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 29
+[25750]  core @0.002742> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[25752]  info @0.000007> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 29
+[25760]  info @0.000007> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 25
+[25768]  info @0.000011> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 27
+[25776]  info @0.000009> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 26
+[25810]  info @0.000009> Test in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 26
+[29900]  core @0.000006> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[29947]  core @0.000007> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[29977]  core @0.000007> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[30014]  core @0.000007> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[30036]  core @0.000007> initializing appdir to: `/home/rstone/repos/Dancer-Plugin-Legacy-Routing/bin/..' in /home/rstone/perl5/perlbrew/perls/perl-5.16.2/lib/site_perl/5.16.2/Dancer.pm l. 329
+[30073]  info @0.000009> Loaded in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 11
+[30098]  info @0.000006> Loaded in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 11
+[30098]  info @0.000579> Loaded2 in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 15
+[30122]  info @0.000009> Loaded in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 11
+[30122]  info @0.000709> Loaded2 in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 15
+[30376]  info @0.000846> [hit #2]Blah in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 23
+[30376]  info @0.000607> [hit #4]Blah in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 23
+[30424]  info @0.000759> [hit #2]Blah in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 23
+[30424]  info @0.000566> [hit #4]Blah in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 23
+[30448]  info @0.000615> [hit #2]Legacy Route GET '/legacy/get' referred from '(none)' in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 32
+[30448]  info @0.001084> [hit #2]Blah in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 23
+[30448]  info @0.000574> [hit #4]Blah in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/t/../bin//TestDancerPluginLegacyRouting.pm l. 23
+[30478]  info @0.000627> [hit #2]Legacy Route GET '/legacy/get' referred from '(none)' in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 32
+[30494]  info @0.000631> [hit #2]Legacy Route GET '/legacy/get' referred from '(none)' in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 32
+[30549]  info @0.000611> [hit #2]Legacy Route GET '/legacy/get' referred from '(none)' in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 32
+[30745]  info @0.000904> [hit #2]Legacy Route GET '/legacy/get' referred from '(none)' in /home/rstone/repos/Dancer-Plugin-Legacy-Routing/lib/Dancer/Plugin/Legacy/Routing.pm l. 33
