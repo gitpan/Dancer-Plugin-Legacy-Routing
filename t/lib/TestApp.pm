@@ -1,4 +1,4 @@
-package TestDancerPluginLegacyRouting;
+package TestApp;
 
 use strict;
 use warnings;
@@ -6,7 +6,7 @@ use warnings;
 use Dancer;
 use Dancer::Plugin::Legacy::Routing;
 
-our $VERSION = '0.0.1'; # VERSION
+# VERSION
 # ABSTRACT: Dancer App used for Testing of Dancer::PLugin::Legacy::Routing
 
 get "/good/get"          => \&test_get;
