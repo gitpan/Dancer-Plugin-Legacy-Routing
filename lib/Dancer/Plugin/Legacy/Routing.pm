@@ -6,7 +6,7 @@ use warnings;
 use Dancer qw(:syntax);
 use Dancer::Plugin;
 
-our $VERSION = '0.0.2'; # VERSION
+our $VERSION = '0.0.3'; # VERSION
 # ABSTRACT: Dancer Plugin for Deprecating Existing Routes
 
 =pod
