@@ -4,7 +4,7 @@
       "Robert Stone <drzigman@cpan.org>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.009, CPAN::Meta::Converter version 2.132661",
+   "generated_by" : "Dist::Zilla version 5.012, CPAN::Meta::Converter version 2.132661",
    "license" : [
       "perl_5"
    ],
@@ -67,6 +67,6 @@
          "web" : "https://github.com/drzigman/dancer-plugin-legacy-routing"
       }
    },
-   "version" : "0.0.3"
+   "version" : "0.0.4"
 }
 
